@@ -3,7 +3,6 @@
 */ 
 
 // Перепиши функцию toggleUserState() так, чтобы она не использовала callback-функцию callback, а принимала всего два параметра allUsers и userName и возвращала промис.
-console.log('Задание 2');
 const users = [
   { name: 'Mango', active: true },
   { name: 'Poly', active: false },
